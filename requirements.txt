@@ -1,0 +1,10 @@
+# messagerie
+discord.py~=2.3
+# planification & http
+schedule~=1.2
+requests~=2.32
+httpx==0.25.2                      # ✅ clé du problème
+python-dotenv~=1.0
+# IA
+openai~=1.23
+mistralai~=0.0.10                  # prends la 0.0.10 la plus récente
