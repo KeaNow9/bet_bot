@@ -16,7 +16,7 @@ TOP_LEAGUES = {
     #61:  "Ligue 1",             # 🇫🇷
     71:  "Brasileirão A",       # 🇧🇷
     #253: "MLS",                 # 🇺🇸/🇨🇦
-    98:  "J1 League",           # 🇯🇵
+    98:  "J1 League",
     94:  "K-League 1",          # 🇰🇷
     203: "Allsvenskan",         # 🇸🇪
     6: "FIFA Club World Cup",  # 🌍🏆
